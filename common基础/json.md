@@ -1,0 +1,22 @@
+## 两种结构
+**对象**
+```bash
+{
+    key1:value1,
+    key2:value2,
+    ...
+}
+```
+**数组**
+```bash
+[
+    {
+        key1:value1,
+        key2:value2 
+    },
+    {
+         key3:value3,
+         key4:value4   
+    }
+]
+```
