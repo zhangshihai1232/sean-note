@@ -1,19 +1,5 @@
 ## 一. 流的操作
-三类：Intermediate、Terminal、Short-circuiting
-Intermediate
 
-```bash
-map (mapToInt, flatMap 等)、 filter、 distinct、 sorted、 peek、 limit、 skip、 parallel、 sequential、 unordered
-```
-Terminal
-
-```bash
-forEach、 forEachOrdered、 toArray、 reduce、 collect、 min、 max、 count、 anyMatch、 allMatch、 noneMatch、 findFirst、 findAny、 iterator
-```
-Short-circuiting
-
-```bash
-anyMatch、 allMatch、 noneMatch、 findFirst、 findAny、 limit
 ```
 ## 二. 典型用法
 **map/flatMap**
